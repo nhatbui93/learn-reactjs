@@ -1,0 +1,13 @@
+.album-item {
+    .album-thumbnail {
+        img {
+            max-width: 190px;
+            border-radius: .8rem;
+        }
+    }
+    h3 {
+        margin-top: 10px;
+        margin-bottom: 10px;
+        font-size: 1rem;
+    }
+}

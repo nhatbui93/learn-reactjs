@@ -1,0 +1,9 @@
+.todo-item {
+    cursor: pointer;
+    font-weight: 500;
+    &.completed {
+        color: #ccc;
+        font-style: italic;
+        text-decoration: line-through;
+    }
+}
